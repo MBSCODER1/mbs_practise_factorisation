@@ -22,6 +22,7 @@ outline: none;
     width: 30%;
     background: rgb(0, 0, 0);
 }
+
 .flxbxbg{
     display: flex;
     flex-wrap: wrap;
